@@ -1,2 +1,2 @@
-# LU_DevOps_JK
-LU DevOps studies
+# DevOps repozitorijs
+Jelena Kozemjakina DevOps repozitorijs pamati iesācējiem
