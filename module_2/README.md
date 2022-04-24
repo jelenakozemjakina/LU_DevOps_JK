@@ -9,6 +9,7 @@ file answer2.png is recognised in git as one and the same file.
 
 # Answer 16:
 git log --after="1 week"
+
 [Terraform Commits](https://github.com/hashicorp/terraform/commits/main) - list of latest commits
 
 # Answer 17:
@@ -16,10 +17,12 @@ git log --author="Laura Pacilio"
 
 # Answer 18:
 git log --since='2021-09-01' --until='2021-09-30' --author="Laura Pacilio"
+
 11 commits for Laura in September
 
 # Answer 19:
 git log --since='1 day ago' --author="Laura Pacilio"
+
 no commits by Laura on 23/04/2022
 
 # Answer *:
